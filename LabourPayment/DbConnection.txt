@@ -1,0 +1,1 @@
+{"USER":"melonbista","SERVER":"Melon","PASSWORD":"melon","DATABASE":"LabourPayment","DIVISION":"MMX","TERMINAL":"AAA","ORDERSYNCAPIURL":""}
